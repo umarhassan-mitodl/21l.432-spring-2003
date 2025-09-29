@@ -95,7 +95,7 @@ Plagiarism -- use of another's intellectual work without acknowledgement -- is a
 
 If you borrow another person’s phrasing, that material must be enclosed in quotation marks. If you use ideas conceived by others but reformulate them in your own prose, then you must acknowledge your collaboration in one of two ways: explicit acknowledgment in the body of your text ("As Lionel Trilling argues in his introduction to *Pride and Prejudice*,…") or in a footnote fully citing your source.
 
-For further guidance on the proper forms of attribution consult the style guides available in the Writing and Communication Center and the {{% resource_link "5059fcdb-b309-4395-8e82-b1be5eedf743" "MIT Website on plagiarism" %}}.
+For further guidance on the proper forms of attribution consult the style guides available in the Writing and Communication Center and the [MIT Website on plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
 
 ## Guidelines for Formatting and Citation
 

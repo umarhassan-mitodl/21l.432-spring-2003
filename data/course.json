@@ -37,6 +37,7 @@
     "website": "21l-432-understanding-television-spring-2003"
   },
   "course_title": "Understanding Television",
+  "hide_download": true,
   "course_description": "The subtitle of this course for the spring 2003 term is \"American Television: A Cultural History.\" The class takes a cultural approach to television's evolution as a technology and system of representation, considering television as a system of storytelling and myth-making, and as a cultural practice, studied from anthropological, literary, and cinematic perspectives. The course focuses on prime-time commercial broadcasting, the medium's technological and economic history, and theoretical perspectives. There is much required viewing as well as readings in media theory and cultural interpretation.\n",
   "department_numbers": [
     "21L"
@@ -47,6 +48,7 @@
     "content": "21752739-de51-69ff-5f6c-669b1f2f1e30",
     "website": "21l-432-understanding-television-spring-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Written Assignments"
